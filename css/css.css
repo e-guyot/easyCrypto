@@ -29,3 +29,8 @@ nav{
 .navbar-brand{
 	color: white!important;
 }
+
+.img-body{
+	width: 500;
+	height: 500;
+}
